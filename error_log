@@ -1,0 +1,93 @@
+[22-Nov-2023 16:39:54 UTC] PHP Warning:  include(mobile-menu.php): Failed to open stream: No such file or directory in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:39:54 UTC] PHP Warning:  include(): Failed opening 'mobile-menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:40:18 UTC] PHP Warning:  include(mobile-menu.php): Failed to open stream: No such file or directory in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:40:18 UTC] PHP Warning:  include(): Failed opening 'mobile-menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:41:50 UTC] PHP Warning:  include(header-mobile-menu.php): Failed to open stream: No such file or directory in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:41:50 UTC] PHP Warning:  include(): Failed opening 'header-mobile-menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:42:35 UTC] PHP Warning:  include(include/mobile-menu.php): Failed to open stream: No such file or directory in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:42:35 UTC] PHP Warning:  include(): Failed opening 'include/mobile-menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:42:58 UTC] PHP Warning:  include(include/mobile-menu.php): Failed to open stream: No such file or directory in /home1/payde9qs/public_html/ui-ux.php on line 793
+[22-Nov-2023 16:42:58 UTC] PHP Warning:  include(): Failed opening 'include/mobile-menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/payde9qs/public_html/ui-ux.php on line 793
+[02-Dec-2023 07:22:52 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:22:52 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Password" on null in /home1/taray7wz/public_html/paydex/send-email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 26
+[02-Dec-2023 07:23:41 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:23:41 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Password" on null in /home1/taray7wz/public_html/paydex/send-email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 26
+[02-Dec-2023 07:26:15 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:26:15 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Password" on null in /home1/taray7wz/public_html/paydex/send-email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 26
+[02-Dec-2023 07:26:55 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:26:55 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Password" on null in /home1/taray7wz/public_html/paydex/send-email.php:26
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 26
+[02-Dec-2023 07:28:51 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:28:51 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Password" on null in /home1/taray7wz/public_html/paydex/send-email.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 27
+[02-Dec-2023 07:31:49 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:31:49 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "Password" on null in /home1/taray7wz/public_html/paydex/send-email.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 27
+[02-Dec-2023 07:37:13 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 07:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::sentFrom() in /home1/taray7wz/public_html/paydex/send-email.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 29
+[02-Dec-2023 09:31:41 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 09:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::sentFrom() in /home1/taray7wz/public_html/paydex/send-email.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 29
+[02-Dec-2023 09:36:42 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 09:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::sentFrom() in /home1/taray7wz/public_html/paydex/send-email.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 29
+[02-Dec-2023 09:40:00 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[02-Dec-2023 09:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::sentFrom() in /home1/taray7wz/public_html/paydex/send-email.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 29
+[03-Dec-2023 13:18:12 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[03-Dec-2023 13:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::sentFrom() in /home1/taray7wz/public_html/paydex/send-email.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 29
+[03-Dec-2023 13:19:51 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 9
+[03-Dec-2023 13:19:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::sentFrom() in /home1/taray7wz/public_html/paydex/send-email.php:32
+Stack trace:
+#0 {main}
+  thrown in /home1/taray7wz/public_html/paydex/send-email.php on line 32
+[03-Dec-2023 13:24:11 UTC] PHP Warning:  Undefined array key "f_name" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[03-Dec-2023 13:24:11 UTC] PHP Warning:  Undefined array key "l_name" in /home1/taray7wz/public_html/paydex/send-email.php on line 7
+[03-Dec-2023 13:24:11 UTC] PHP Warning:  Undefined array key "email" in /home1/taray7wz/public_html/paydex/send-email.php on line 8
+[03-Dec-2023 13:24:11 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 9
+[03-Dec-2023 13:24:11 UTC] PHP Warning:  Undefined array key "subject" in /home1/taray7wz/public_html/paydex/send-email.php on line 10
+[03-Dec-2023 13:24:11 UTC] PHP Warning:  Undefined array key "enquiry" in /home1/taray7wz/public_html/paydex/send-email.php on line 11
+[03-Dec-2023 13:24:11 UTC] PHP Deprecated:  mail(): Passing null to parameter #1 ($to) of type string is deprecated in /home1/taray7wz/public_html/paydex/send-email.php on line 46
+[03-Dec-2023 13:25:19 UTC] PHP Warning:  Undefined array key "f_name" in /home1/taray7wz/public_html/paydex/send-email.php on line 6
+[03-Dec-2023 13:25:19 UTC] PHP Warning:  Undefined array key "l_name" in /home1/taray7wz/public_html/paydex/send-email.php on line 7
+[03-Dec-2023 13:25:19 UTC] PHP Warning:  Undefined array key "email" in /home1/taray7wz/public_html/paydex/send-email.php on line 8
+[03-Dec-2023 13:25:19 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 9
+[03-Dec-2023 13:25:19 UTC] PHP Warning:  Undefined array key "subject" in /home1/taray7wz/public_html/paydex/send-email.php on line 10
+[03-Dec-2023 13:25:19 UTC] PHP Warning:  Undefined array key "enquiry" in /home1/taray7wz/public_html/paydex/send-email.php on line 11
+[03-Dec-2023 13:25:19 UTC] PHP Deprecated:  mail(): Passing null to parameter #1 ($to) of type string is deprecated in /home1/taray7wz/public_html/paydex/send-email.php on line 46
+[03-Dec-2023 13:37:30 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 9
+[03-Dec-2023 13:37:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/taray7wz/public_html/paydex/send-email.php:9) in /home1/taray7wz/public_html/paydex/send-email.php on line 53
+[03-Dec-2023 13:38:25 UTC] PHP Warning:  Undefined array key "mobile" in /home1/taray7wz/public_html/paydex/send-email.php on line 9
+[03-Dec-2023 13:38:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/taray7wz/public_html/paydex/send-email.php:9) in /home1/taray7wz/public_html/paydex/send-email.php on line 53
+[19-Dec-2023 13:19:12 UTC] PHP Warning:  Undefined array key "subject" in /home1/taray7wz/public_html/paydex/send-email.php on line 7
+[23-Dec-2023 16:07:54 UTC] PHP Warning:  include(testimonial.php): Failed to open stream: No such file or directory in /home1/taray7wz/public_html/paydex/about-us.php on line 347
+[23-Dec-2023 16:07:54 UTC] PHP Warning:  include(): Failed opening 'testimonial.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/taray7wz/public_html/paydex/about-us.php on line 347
+[23-Dec-2023 16:09:17 UTC] PHP Warning:  include(testimonial.php): Failed to open stream: No such file or directory in /home1/taray7wz/public_html/paydex/about-us.php on line 347
+[23-Dec-2023 16:09:17 UTC] PHP Warning:  include(): Failed opening 'testimonial.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/taray7wz/public_html/paydex/about-us.php on line 347

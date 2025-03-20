@@ -1,0 +1,11 @@
+@media only screen and (max-width: 767px){
+    .software-innovation-hero-image .img-fluid{
+         margin-left: 0 !important;
+    }
+
+    .dsrvf.d-flex{
+        display: block !important;
+    }
+}
+
+
