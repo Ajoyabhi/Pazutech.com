@@ -19,7 +19,7 @@
             <div class="spinner d-flex justify-content-center align-items-center h-100">
 
                 <div class="bounce1"></div>
-
+:
                 <div class="bounce2"></div>
 
                 <div class="bounce3"></div>
